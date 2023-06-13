@@ -24,16 +24,28 @@
 <h2>Projects</h2>
 <p>• Designed a web interface for facilitating loan requests.
 (https://tiendungfinance.com.vn/)
+ </p>
+ <p>
 • Developed a COVID data rate table for tracking and analysis.
 (https://chauhoaivuprofectcovid19.netlify.app/)
+</p>
+<p>
 • Created a web-based movie application.
 (https://chauhoaivumovie.netlify.app/ )
+</p>
+<p>
 • Designed a mock Twitter interface for testing purposes.
 (https://chauhoaivutwitter.netlify.app/)
+</p>
+<p>
 • Created a web-based interface for selling shirts.
 (https://www.youtube.com/watch?v=kLGzDQOgD9k&;t=325s)
+</p>
+<p>
 • Implemented an IoT interface for a parking system.
 (https://chauhoaivuiotparking.netlify.app/)
+</p>
+<p>
 • Developed an interface dashboard for a management system.
 (https://chauhoaivumanagementsystem.netlify.app/)
  </p>
